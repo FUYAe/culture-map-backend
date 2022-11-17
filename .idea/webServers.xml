@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e886e0b3-da3e-4caa-b2da-ba0977c0cd1e" name="culmap">
+        <fileTransfer rootFolder="/home/shareubuntu/cultrue-map" accessType="SFTP" host="101.35.40.119" port="8083" sshConfigId="950fd1ea-9348-4ac4-afa1-4cdaaa27b9e8" sshConfig="root@101.35.40.119:8083 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
